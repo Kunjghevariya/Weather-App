@@ -63,6 +63,7 @@ main{
 .label{
     font-size: larger;
     font-weight: bolder;
+    color: aliceblue;
     
 }
 #weather-info{
