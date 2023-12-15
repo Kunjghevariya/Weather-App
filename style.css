@@ -10,10 +10,11 @@ nav{
     display: flex;
     flex-direction: row;
     text-align: center;
-    justify-content: space-between;
+    
     height: 100px;
 }
 .logo{
+    width: 100%;
     margin: 10px;
     display: flex;
     text-align: center;
@@ -21,6 +22,7 @@ nav{
     gap: 30px;
     height: 100px;
     font-size: xx-large;
+    justify-content: space-around;
     filter: drop-shadow(16px 7px 8px #d21369);
 }
 .logo img{
